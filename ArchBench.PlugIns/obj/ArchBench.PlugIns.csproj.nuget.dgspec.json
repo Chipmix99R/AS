@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {}
+    "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {}
   },
   "projects": {
-    "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+    "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "projectUniqueName": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
         "projectName": "ArchBench.PlugIns",
-        "projectPath": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
-        "packagesPath": "C:\\Users\\pc-hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns\\obj\\",
+        "projectPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "packagesPath": "C:\\Users\\lnobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc-hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lnobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
