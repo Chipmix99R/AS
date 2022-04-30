@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArchBench.Server.ModulePlugIns">
+    <Position X="4.25" Y="6.25" Width="3" />
+    <Members>
+      <Method Name="ModulePlugIns" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModulePlugIns.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Logger" />
+      <Property Name="PlugInsManager" />
+    </ShowAsAssociation>
+    <Lollipop Position="2.274" />
+  </Class>
+  <Class Name="ArchBench.Server.PlugInsManager">
+    <Position X="9.75" Y="5" Width="2" />
+    <Members>
+      <Field Name="mPlugIns" Hidden="true" />
+      <Method Name="PlugInsManager" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAAAAAAAAAABAAAAIAICAAAAAAAAABAAAA=</HashCode>
+      <FileName>PlugInsManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Host" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="PlugIns" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpServer.HttpModules.HttpModule" Collapsed="true">
+    <Position X="4.25" Y="4" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="ArchBench.PlugIns.IArchBenchLogger" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="2.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchPlugIn" Collapsed="true">
+    <Position X="13.25" Y="6" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchPlugInHost" Collapsed="true">
+    <Position X="6.25" Y="5" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ArchBench.Server.IPlugInsManager">
+    <Position X="9.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAIAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>IPlugInsManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
