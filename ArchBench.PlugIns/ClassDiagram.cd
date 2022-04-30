@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="ArchBench.PlugIns.IArchBenchLogger">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IArchBenchLogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchPlugIn">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAgAYAAgAAAAAQAAAAACAAAgAAAAAAAAAA=</HashCode>
+      <FileName>IArchBenchPlugIn.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Host" />
+      <Property Name="Settings" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchPlugInHost">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>IArchBenchPlugInHost.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Logger" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchHttpPlugIn">
+    <Position X="1" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IArchBenchHttpPlugIn.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ArchBench.PlugIns.IArchBenchSettings" Collapsed="true">
+    <Position X="5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IArchBenchSettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
