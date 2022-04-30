@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArchBench.PlugIns\ArchBench.PlugIns.csproj" />
+    <ProjectReference Include="..\ArchBench.Server.Kernel\ArchBench.Server.Kernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HttpServer">
+      <HintPath>..\HttpServer\HttpServer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
