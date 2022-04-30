@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9FhqcShd9TQIglAm/GBVzLa/ivbXzN94fDmCqMhdZCW8u/dQ/e+rQ3X1Hh5F0uRt+tGeKiTITliMyAnHfc8+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns.Logger\\ArchBench.PlugIns.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lnobr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lnobr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
