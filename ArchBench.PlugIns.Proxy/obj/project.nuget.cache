@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2f0bmrTrbc7IOV9JZWrbNifhNRWqa4+k4IbwzgsGS7qnfhzjwlY5+UXrFzteHqFcr3np4j+eWnb/LLTHHDBhw==",
+  "success": true,
+  "projectFilePath": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns.Proxy\\ArchBench.PlugIns.Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc-hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
