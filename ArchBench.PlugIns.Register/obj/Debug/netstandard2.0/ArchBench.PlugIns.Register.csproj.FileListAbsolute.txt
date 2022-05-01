@@ -1,0 +1,14 @@
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.deps.json
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.dll
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.pdb
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\HttpServer.dll
+D:\Github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.AssemblyReference.cache
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.AssemblyInfoInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.AssemblyInfo.cs
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.CoreCompileInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.CopyComplete
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.dll
+D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.pdb

@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ArchBench.PlugIns/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ArchBench.PlugIns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchBench.PlugIns.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ArchBench.PlugIns/1.0.0": {
+      "type": "project",
+      "path": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj",
+      "msbuildProject": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "ArchBench.PlugIns >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -205,7 +221,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+              "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

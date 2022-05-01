@@ -1,0 +1,15 @@
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\favicon.ico
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.deps.json
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.dll
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.pdb
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\HttpServer.dll
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.csproj.AssemblyReference.cache
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.AssemblyInfoInputs.cache
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.AssemblyInfo.cs
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.csproj.CoreCompileInputs.cache
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.csproj.CopyComplete
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.dll
+D:\Github\AS\ArchBench.PlugIns.FavIcon\obj\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.pdb
