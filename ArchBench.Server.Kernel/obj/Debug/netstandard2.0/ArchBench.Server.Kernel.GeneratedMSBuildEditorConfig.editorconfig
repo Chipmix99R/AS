@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ArchBench.Server.Kernel
+build_property.ProjectDir = D:\Github\AS\ArchBench.Server.Kernel\
