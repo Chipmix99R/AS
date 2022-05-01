@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Academics\\ArchBench\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj": {}
+    "D:\\Github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj": {}
   },
   "projects": {
-    "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+    "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
         "projectName": "ArchBench.PlugIns",
-        "projectPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
-        "packagesPath": "C:\\Users\\lnobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\obj\\",
+        "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lnobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,21 +57,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Academics\\ArchBench\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj": {
+    "D:\\Github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academics\\ArchBench\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
+        "projectUniqueName": "D:\\Github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
         "projectName": "ArchBench.Server.Kernel",
-        "projectPath": "C:\\Academics\\ArchBench\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
-        "packagesPath": "C:\\Users\\lnobr\\.nuget\\packages\\",
-        "outputPath": "C:\\Academics\\ArchBench\\ArchBench.Server.Kernel\\obj\\",
+        "projectPath": "D:\\Github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
+        "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\AS\\ArchBench.Server.Kernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lnobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
-                "projectPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+              "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+                "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
               }
             }
           }
@@ -118,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

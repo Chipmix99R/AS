@@ -1,0 +1,14 @@
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.deps.json
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.dll
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.pdb
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\HttpServer.dll
+D:\Github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.AssemblyReference.cache
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.AssemblyInfoInputs.cache
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.AssemblyInfo.cs
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.CoreCompileInputs.cache
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.CopyComplete
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.dll
+D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.pdb

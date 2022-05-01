@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ArchBench.PlugIns/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ArchBench.PlugIns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchBench.PlugIns.dll": {}
+        }
       }
     }
   },
@@ -172,27 +182,33 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ArchBench.PlugIns/1.0.0": {
+      "type": "project",
+      "path": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj",
+      "msbuildProject": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "ArchBench.PlugIns >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc-hp\\.nuget\\packages\\": {}
+    "C:\\Users\\cduar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns.Proxy\\ArchBench.PlugIns.Proxy.csproj",
+      "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns.Proxy\\ArchBench.PlugIns.Proxy.csproj",
       "projectName": "ArchBench.PlugIns.Proxy",
-      "projectPath": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns.Proxy\\ArchBench.PlugIns.Proxy.csproj",
-      "packagesPath": "C:\\Users\\pc-hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidade\\AS\\ArchBench\\ArchBench.PlugIns.Proxy\\obj\\",
+      "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns.Proxy\\ArchBench.PlugIns.Proxy.csproj",
+      "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns.Proxy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc-hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -205,7 +221,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+              "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -235,7 +255,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

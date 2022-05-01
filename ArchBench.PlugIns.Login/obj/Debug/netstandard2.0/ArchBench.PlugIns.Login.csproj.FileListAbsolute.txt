@@ -1,0 +1,17 @@
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\favicon.ico
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\ArchBench.PlugIns.Login.deps.json
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\ArchBench.PlugIns.Login.dll
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\ArchBench.PlugIns.Login.pdb
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\HttpServer.dll
+D:\Github\AS\ArchBench.PlugIns.Login\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.csproj.AssemblyReference.cache
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.Resource.resources
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.csproj.GenerateResource.cache
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.AssemblyInfoInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.AssemblyInfo.cs
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.csproj.CoreCompileInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.csproj.CopyComplete
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.dll
+D:\Github\AS\ArchBench.PlugIns.Login\obj\Debug\netstandard2.0\ArchBench.PlugIns.Login.pdb

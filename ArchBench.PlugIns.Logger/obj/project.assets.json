@@ -196,19 +196,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lnobr\\.nuget\\packages\\": {}
+    "C:\\Users\\cduar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academics\\ArchBench\\ArchBench.PlugIns.Logger\\ArchBench.PlugIns.Logger.csproj",
+      "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns.Logger\\ArchBench.PlugIns.Logger.csproj",
       "projectName": "ArchBench.PlugIns.Logger",
-      "projectPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns.Logger\\ArchBench.PlugIns.Logger.csproj",
-      "packagesPath": "C:\\Users\\lnobr\\.nuget\\packages\\",
-      "outputPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns.Logger\\obj\\",
+      "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns.Logger\\ArchBench.PlugIns.Logger.csproj",
+      "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns.Logger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lnobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -222,8 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
-              "projectPath": "C:\\Academics\\ArchBench\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+            "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+              "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
             }
           }
         }
@@ -255,7 +255,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

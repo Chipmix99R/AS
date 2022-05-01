@@ -1,4 +1,8 @@
-﻿using System;
+﻿using HttpServer;
+using HttpServer.Sessions;
+using System;
+using System.Net;
+using System.Collections.Specialized;
 
 namespace ArchBench.PlugIns.Proxy
 {
@@ -37,10 +41,10 @@ namespace ArchBench.PlugIns.Proxy
                     bytes = client.UploadValues(url, inputs);
                 }
                 else
-                    var byte = client.DownloadData(url);
+                    bytes = client.DownloadData(url);
 
                 BackwardCookies(client, aResponse);
-                aResponse.Body.Write(byte, 0, byte.length);
+                aResponse.Body.Write(bytes, 0, bytes.Length);
             }
             catch(Exception ex)
             {
