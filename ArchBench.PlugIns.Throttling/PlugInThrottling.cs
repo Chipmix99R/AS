@@ -44,11 +44,13 @@ namespace ArchBench.PlugIns.Throttling
                 //Host.Logger.WriteLine("{0} tasks can enter the semaphore before the operation.", gate.CurrentCount);
                 // Criar e fazer 10 trabalhos
                 Task[] tasks = new Task[10];
-                aSession["Count"] = (int?)aSession["Count"];//inicializar o aSession[Count]
+                //aSession["Count"] = (int?)aSession["Count"] + 1 ?? 1;
+                var num = (int)aSession["Count"];
                 for (int i = 0; i <= 9; i++)
                 {
                     tasks[i] = Task.Run(async () =>
                     {
+                        
                         // Cada trabalho começa com um semáforo
                         Console.WriteLine("Task {0} begins and waits for the semaphore.", Task.CurrentId);
                         int semaphoreCount;
@@ -57,14 +59,13 @@ namespace ArchBench.PlugIns.Throttling
                         {
                             Interlocked.Add(ref padding, 100);
                             Console.WriteLine("Task {0} enters the semaphore.", Task.CurrentId);
-                            aSession["Count"] = (int?)aSession["Count"] + 1 ?? 1;
-                           
-
+                             num += i;
+                            ;
                             var writer = new StreamWriter(aResponse.Body);
-                            writer.WriteLine($"Number: "+ aSession["Count"]+".");
+                            writer.WriteLine($"Number: "+ num +".");
                             writer.Flush();
 
-                            Host.Logger.WriteLine($"Number: " + aSession["Count"] + ".");
+                            Host.Logger.WriteLine($"Number: " + num + ".");
                             //Sleep for 1+ seconds
                             Thread.Sleep(1000 + padding);
                         }
