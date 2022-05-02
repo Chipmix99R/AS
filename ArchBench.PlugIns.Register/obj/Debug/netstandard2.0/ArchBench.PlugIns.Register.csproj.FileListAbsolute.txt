@@ -12,3 +12,17 @@ D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugI
 D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.CopyComplete
 D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.dll
 D:\Github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.deps.json
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.Register.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\HttpServer.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.AssemblyReference.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.AssemblyInfoInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.AssemblyInfo.cs
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.CoreCompileInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.csproj.CopyComplete
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Register\obj\Debug\netstandard2.0\ArchBench.PlugIns.Register.pdb

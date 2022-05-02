@@ -12,3 +12,17 @@ D:\Github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns
 D:\Github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.csproj.CopyComplete
 D:\Github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.dll
 D:\Github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.deps.json
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\HttpServer.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.csproj.AssemblyReference.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.AssemblyInfoInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.AssemblyInfo.cs
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.csproj.CoreCompileInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.csproj.CopyComplete
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Logger\obj\Debug\netstandard2.0\ArchBench.PlugIns.Logger.pdb

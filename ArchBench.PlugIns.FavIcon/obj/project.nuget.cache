@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqZekBe2iglsbjK40yrVnnoPcHbd45JHAvxAafXJymeOZm7IYR62P2Vlm1B8WjZ21dnBAk5xkNAvR00jgY4E9w==",
+  "dgSpecHash": "u6potHhDias44gc68Yq0aqOJIfIs1b8vbFPyDZQsS9vmg+eFKeU6cW5GVjaWF4xfP3gEMoV8Nvv9uDZpnrASGA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\AS\\ArchBench.PlugIns.FavIcon\\ArchBench.PlugIns.FavIcon.csproj",
+  "projectFilePath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.FavIcon\\ArchBench.PlugIns.FavIcon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cduar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cduar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

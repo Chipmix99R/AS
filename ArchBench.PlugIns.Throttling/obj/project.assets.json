@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns.Throttling\\ArchBench.PlugIns.Throttling.csproj",
+      "projectUniqueName": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Throttling\\ArchBench.PlugIns.Throttling.csproj",
       "projectName": "ArchBench.PlugIns.Throttling",
-      "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns.Throttling\\ArchBench.PlugIns.Throttling.csproj",
+      "projectPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Throttling\\ArchBench.PlugIns.Throttling.csproj",
       "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns.Throttling\\obj\\",
+      "outputPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Throttling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
-              "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+            "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+              "projectPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
             }
           }
         }
@@ -255,7 +255,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

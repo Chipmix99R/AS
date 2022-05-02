@@ -12,3 +12,17 @@ D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.K
 D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.CopyComplete
 D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.dll
 D:\Github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.deps.json
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.Server.Kernel.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\HttpServer.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.AssemblyReference.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.AssemblyInfoInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.AssemblyInfo.cs
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.CoreCompileInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.csproj.CopyComplete
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.Server.Kernel\obj\Debug\netstandard2.0\ArchBench.Server.Kernel.pdb

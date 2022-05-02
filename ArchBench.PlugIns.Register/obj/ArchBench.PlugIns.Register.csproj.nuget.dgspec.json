@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj": {}
+    "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj": {}
   },
   "projects": {
-    "D:\\Github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj": {
+    "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj",
+        "projectUniqueName": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj",
         "projectName": "ArchBench.PlugIns.Register",
-        "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj",
+        "projectPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Register\\ArchBench.PlugIns.Register.csproj",
         "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns.Register\\obj\\",
+        "outputPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Register\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
-                "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
+              "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+                "projectPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
               }
             }
           }
@@ -61,18 +61,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
+    "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "projectUniqueName": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
         "projectName": "ArchBench.PlugIns",
-        "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
+        "projectPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj",
         "packagesPath": "C:\\Users\\cduar\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AS\\ArchBench.PlugIns\\obj\\",
+        "outputPath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
