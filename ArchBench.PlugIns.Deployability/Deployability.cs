@@ -51,7 +51,6 @@ namespace ArchBench.PlugIns.Deployability
             {
                 var token = false;
                 var newText = "";
-                var i = 0;
                 foreach (string text in File.ReadLines("Version Verifier.txt"))
                 {
                     if (text.Contains(plugs.Name))
@@ -72,8 +71,7 @@ namespace ArchBench.PlugIns.Deployability
                             token = true;
                             break;
                         }
-                    }
-                    i++;                
+                    }             
                 }
                 if (token)
                 {
