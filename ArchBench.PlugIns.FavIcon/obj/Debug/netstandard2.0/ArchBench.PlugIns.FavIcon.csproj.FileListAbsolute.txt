@@ -1,6 +1,6 @@
+D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.dll
 D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\favicon.ico
 D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.deps.json
-D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.dll
 D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.FavIcon.pdb
 D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.FavIcon\bin\Debug\netstandard2.0\HttpServer.dll

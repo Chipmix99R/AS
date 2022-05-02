@@ -1,5 +1,5 @@
-D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.deps.json
 D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.dll
+D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.deps.json
 D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.Logger.pdb
 D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.Logger\bin\Debug\netstandard2.0\HttpServer.dll

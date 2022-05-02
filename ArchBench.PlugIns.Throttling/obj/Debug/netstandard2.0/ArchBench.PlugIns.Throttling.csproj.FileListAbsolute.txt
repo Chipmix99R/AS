@@ -1,0 +1,14 @@
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.deps.json
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.dll
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.pdb
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\HttpServer.dll
+D:\Github\AS\ArchBench.PlugIns.Throttling\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.csproj.AssemblyReference.cache
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.AssemblyInfoInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.AssemblyInfo.cs
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.csproj.CoreCompileInputs.cache
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.csproj.CopyComplete
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.dll
+D:\Github\AS\ArchBench.PlugIns.Throttling\obj\Debug\netstandard2.0\ArchBench.PlugIns.Throttling.pdb

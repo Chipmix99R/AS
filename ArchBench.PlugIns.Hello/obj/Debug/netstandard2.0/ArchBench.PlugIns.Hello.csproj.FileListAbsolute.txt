@@ -1,5 +1,5 @@
-D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.deps.json
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.dll
+D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.deps.json
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.pdb
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\HttpServer.dll

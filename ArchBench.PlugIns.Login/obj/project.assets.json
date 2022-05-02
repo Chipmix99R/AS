@@ -35,6 +35,19 @@
         "runtime": {
           "bin/placeholder/ArchBench.PlugIns.dll": {}
         }
+      },
+      "ArchBench.PlugIns.Dispatcher/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ArchBench.PlugIns": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArchBench.PlugIns.Dispatcher.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchBench.PlugIns.Dispatcher.dll": {}
+        }
       }
     }
   },
@@ -187,11 +200,17 @@
       "type": "project",
       "path": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj",
       "msbuildProject": "../ArchBench.PlugIns/ArchBench.PlugIns.csproj"
+    },
+    "ArchBench.PlugIns.Dispatcher/1.0.0": {
+      "type": "project",
+      "path": "../ArchBench.PlugIns.Dispatcher/ArchBench.PlugIns.Dispatcher.csproj",
+      "msbuildProject": "../ArchBench.PlugIns.Dispatcher/ArchBench.PlugIns.Dispatcher.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "ArchBench.PlugIns >= 1.0.0",
+      "ArchBench.PlugIns.Dispatcher >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -222,6 +241,9 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
+            "D:\\Github\\AS\\ArchBench.PlugIns.Dispatcher\\ArchBench.PlugIns.Dispatcher.csproj": {
+              "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns.Dispatcher\\ArchBench.PlugIns.Dispatcher.csproj"
+            },
             "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj": {
               "projectPath": "D:\\Github\\AS\\ArchBench.PlugIns\\ArchBench.PlugIns.csproj"
             }

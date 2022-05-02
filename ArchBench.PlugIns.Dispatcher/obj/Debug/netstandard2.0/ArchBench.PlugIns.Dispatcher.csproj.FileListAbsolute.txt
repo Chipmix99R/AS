@@ -1,5 +1,5 @@
-D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.deps.json
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.dll
+D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.deps.json
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.pdb
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\HttpServer.dll

@@ -10,6 +10,7 @@
       "ArchBench.PlugIns.Login/1.0.0": {
         "dependencies": {
           "ArchBench.PlugIns": "1.0.0",
+          "ArchBench.PlugIns.Dispatcher": "1.0.0",
           "NETStandard.Library": "2.0.3",
           "HttpServer": "1.0.0.0"
         },
@@ -26,6 +27,14 @@
       "ArchBench.PlugIns/1.0.0": {
         "runtime": {
           "ArchBench.PlugIns.dll": {}
+        }
+      },
+      "ArchBench.PlugIns.Dispatcher/1.0.0": {
+        "dependencies": {
+          "ArchBench.PlugIns": "1.0.0"
+        },
+        "runtime": {
+          "ArchBench.PlugIns.Dispatcher.dll": {}
         }
       },
       "HttpServer/1.0.0.0": {
@@ -59,6 +68,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "ArchBench.PlugIns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchBench.PlugIns.Dispatcher/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
