@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAAX1vtYa31icKu8MwQPst/xvoceT5hUwTCuRGKv+1V7IQKlPc5AmY9HxLcslFawN4imdeuq4bvYiRHbKbTUDg==",
+  "dgSpecHash": "3+KfXBqQ5o3XyXo4mXyR1jLbJ3jby1nYHQr+T0iof/2Ovu8taaoIwW5ODRt9H2Jo6TKNiaKNPZO3n0az9LMCAg==",
   "success": true,
-  "projectFilePath": "D:\\Github\\AS\\ArchBench.PlugIns.Login\\ArchBench.PlugIns.Login.csproj",
+  "projectFilePath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Login\\ArchBench.PlugIns.Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cduar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cduar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

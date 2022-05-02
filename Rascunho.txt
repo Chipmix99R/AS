@@ -1,0 +1,46 @@
+Origens:
+Externos:
+pedido do user
+pedido do sistema externo
+dados de um sensor ou outro sistema
+
+Internos:
+Componente pode pedir outro componente
+Timer pode gerar uma notificação
+
+Estímulo: 
+uma chegada de um evento(pedido de um serviço ou notificação de algum estado do sistema em si ou de um sistema externo)
+
+-Chega num intervalo previsível
+-Um evento estocástico(cujo estado é indeterminado) de acordo com alguma distribuição probabilística
+-Um evento irregular chega de acordo com um padrão que não é nem periódico nem estocástico
+
+Artefacto:
+Todo o sistema
+Componente dentro do sistema
+
+Ambiente: normal, emergência, modo correção de erros, Capacidade cheia,modo sobrecarregado, modo operação degradada, qualquer outro modo
+
+Resposta: retorna uma resposta, um erro, sem resposta, ignora o pedido se estiver sobrecarregado, muda o modo ou nível de serviço, consome recursos
+
+Medidas de resposta: Latência (min,max,mean,median), Nº ou % de pedidos satisfeitos sobre um período de tempo ou sobre um conj. de eventos, Nº ou % de pedidos não satisfeitos, Nível de uso de recursos
+
+Táticas:
+Controlar procura de recursos(gerir pedidos, limitar respostas a eventos, dar prioridade a eventos, reduzir excesso de computação, Limitar tempos de execução, aumentar eficiência)
+
+Gerir recursos(Aumentar recursos, introduzir concorrÊncia, manter múltiplas cópias de computações e de dados, limitar tamanho das filas, agendar recursos)
+
+Questões:
+    Têm SLA (especifica a taxa máximo de chegada de eventos que se queira suportar?)
+	Dá para gerir a taxa de resposta (quant. de processamento) de um evento?
+	Foram definidos categorias diferentes de pedidos e diferentes prioridades para cada pedido?
+	É possível reduzir o excesso de computação ao limpar recursos ou reduzir indireção
+	consegue-se limitar o tempo de resposta dos algoritmos
+	"" aumentar a eficiência computacional ao escolher os algoritmos
+	dá para alocar mais recursos ao sistema ou aos recursos?
+	estás a aplicar concorrência?
+	as cumpotações podem ser replicadas em processadores diferentes
+	os dados podem ser "cache"ados ou replicados
+	podem fas filas serem limitadas para por um limite superior nos recursos necessários para processar o estimulos
+	usa estratégias de agendamento?
+

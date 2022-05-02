@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ArchBench.PlugIns.Dispatcher\ArchBench.PlugIns.Dispatcher.csproj" />
     <ProjectReference Include="..\ArchBench.PlugIns\ArchBench.PlugIns.csproj" />
   </ItemGroup>
 

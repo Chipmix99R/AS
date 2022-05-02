@@ -1,5 +1,5 @@
-D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.deps.json
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.dll
+D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.deps.json
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.pdb
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\HttpServer.dll
@@ -12,3 +12,17 @@ D:\Github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.Plu
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.csproj.CopyComplete
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.dll
 D:\Github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.deps.json
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\HttpServer.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.csproj.AssemblyReference.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.AssemblyInfoInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.AssemblyInfo.cs
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.csproj.CopyComplete
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Dispatcher\obj\Debug\netstandard2.0\ArchBench.PlugIns.Dispatcher.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVwT/SnRp5UB5vhsPYhm3SUOUNhMo7VHF61cMbKnWP4yqFDUDx6+8Ag6SNozTd4BZNXObQa6kXBfk7hKYC7hbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.PlugIns.Throttling\\ArchBench.PlugIns.Throttling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cduar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cduar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rAmfCU4wYISg+6ieFL9A/rc5n3SedKU6O0t7QT7jwre7btufrDEKvtwwniTkSNgSZe0vvty+eWq6DBcCJpL7g==",
+  "dgSpecHash": "P/1V2n+RlgTlB8bbq/rnc2XFtQSWXVLvsNVOB3pnLg21Gl6xDHZQgvd5dboumaBX3SGvA3+eiBmiwe5BHgHhAg==",
   "success": true,
-  "projectFilePath": "D:\\Github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
+  "projectFilePath": "C:\\Users\\cduar\\Documents\\github\\AS\\ArchBench.Server.Kernel\\ArchBench.Server.Kernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cduar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cduar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

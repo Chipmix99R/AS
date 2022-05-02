@@ -1,5 +1,5 @@
-D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.deps.json
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.dll
+D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.deps.json
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.pdb
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
 D:\Github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\HttpServer.dll
@@ -12,3 +12,17 @@ D:\Github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.
 D:\Github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.csproj.CopyComplete
 D:\Github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.dll
 D:\Github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.deps.json
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.Hello.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\HttpServer.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\bin\Debug\netstandard2.0\ArchBench.PlugIns.pdb
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.csproj.AssemblyReference.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.AssemblyInfoInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.AssemblyInfo.cs
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.csproj.CoreCompileInputs.cache
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.csproj.CopyComplete
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.dll
+C:\Users\cduar\Documents\github\AS\ArchBench.PlugIns.Hello\obj\Debug\netstandard2.0\ArchBench.PlugIns.Hello.pdb

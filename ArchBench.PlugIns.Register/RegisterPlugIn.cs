@@ -15,6 +15,7 @@ namespace ArchBench.PlugIns.Register
             get => OnService; 
             set => Register( value );
         }
+
         public IArchBenchPlugInHost Host { get; set; }
 
         public IArchBenchSettings Settings { get; } = new ArchBenchSettings();
